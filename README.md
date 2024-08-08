@@ -1,11 +1,13 @@
 
 ### Olá, eu sou Armando Eduardo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amandynn__/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-eduardo-942ab2249/)
 
 ![Armandyn GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandynCoder&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandynCoder&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contate-me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amandynn__/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-eduardo-942ab2249/)
 
 ### Tecnologias Que Utilizo
 
