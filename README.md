@@ -24,8 +24,8 @@
     </div>
 </div>
 
+
 ![Snake animation](https://github.com/ArmandynCoder/ArmandynCoder/blob/output/github-contribution-grid-snake.svg)
-<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amandynn__/) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-eduardo-942ab2249/)
+
 
 
