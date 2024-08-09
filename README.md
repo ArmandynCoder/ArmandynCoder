@@ -23,6 +23,7 @@
         </a>
     </div>
 </div>
+<br><br><br>
 
 
 ![Snake animation](https://github.com/ArmandynCoder/ArmandynCoder/blob/output/github-contribution-grid-snake.svg)
