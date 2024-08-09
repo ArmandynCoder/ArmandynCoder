@@ -1,9 +1,14 @@
 
 ### Olá, eu sou Armando Eduardo
 
-
 ![Armandyn GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandynCoder&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandynCoder&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+    <div style="display:inline_block">
+        <img align="left" height="250" alt="coding_image" src="paraGitHub.gif">
+    </div>
+</div>
 
 ## Contate-me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amandynn__/)
