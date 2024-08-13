@@ -42,7 +42,7 @@
         <a href="https://www.instagram.com/amandynn__/">
             <img width="45" src="instagram.png">
         </a>
-        <a href="[https://www.instagram.com/amandynn__/](https://www.linkedin.com/in/armando-eduardo-942ab2249/)">
+        <a href="https://www.linkedin.com/in/armando-eduardo-942ab2249/">
             <img width="45" src="linkedin.png">
         </a>
     </div>
