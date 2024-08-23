@@ -46,6 +46,9 @@
         <a href="https://www.linkedin.com/in/armando-eduardo-942ab2249/">
             <img width="45" src="linkedin.png">
         </a>
+        <a href="[armandoeduardo@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)">
+            <img width="45" src="gmail.png">
+        </a>
     </div>
 </div>
 
